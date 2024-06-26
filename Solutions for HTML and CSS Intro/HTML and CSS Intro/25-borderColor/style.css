@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+p {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.border-red {
+    border-color: red;
+    background-color: #ffe6e6;
+}
+
+.border-green {
+    border-color: green;
+    background-color: #e6ffe6;
+}
+
+.border-blue {
+    border-color: blue;
+    background-color: #e6f2ff;
+}
+
+.border-purple {
+    border-color: purple;
+    background-color: #f2e6ff;
+}

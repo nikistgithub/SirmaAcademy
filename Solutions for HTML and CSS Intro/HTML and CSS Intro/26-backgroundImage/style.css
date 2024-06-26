@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: navy;
+}
+
+.background-example {
+    margin: 20px auto;
+    padding: 20px;
+    color: white;
+    font-size: 50px;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+#background1 {
+    background-image: url(../images/Portrait-of-a-cat-with-whiskers-visible.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+#background2 {
+    background-image: url(../images/German-Shepherd-dog-Alsatian.webp);
+    background-size: cover;
+    background-position: center;
+}

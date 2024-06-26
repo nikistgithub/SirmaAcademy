@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+div{
+    margin: 20px 0;
+    padding: 50px;
+    font-size: 20px;
+}
+
+.background-cover {
+    background-image: url(../images/360_F_257444055_PkKcxfFof9GdJPYHs3SkMjuowzQhziIF.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.background-contain {
+    background-image: url(../images/divo-i-zapazeno-mestentse-rodopite-vi-031.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.background-auto {
+    background-image: url(../images/18698369_10212844348565183_8072570633462979037_n.webp);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}

@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f9;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.normal {
+    line-height: normal; 
+}
+
+.small-line-height {
+    line-height: 1.2; 
+}
+
+.large-line-height {
+    line-height: 1.8; 
+}
+
+.extra-large-line-height {
+    line-height: 2.5; 
+}
+
+p {
+    color: #555;
+    font-size: 18px;
+    margin-bottom: 20px;
+}

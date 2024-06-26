@@ -1,0 +1,32 @@
+body{
+    background-color:greenyellow;
+}
+
+.title{
+    text-decoration: underline;
+}
+
+.header{
+    text-align: center;
+}
+
+.main{
+    padding: 50px;
+}
+
+.subtitle{
+    color: red;
+}
+
+.text{
+    font-style: italic;
+}
+
+.list{
+    text-decoration: underline;
+}
+
+.footer{
+    padding: 60px;
+    text-align: center;
+}

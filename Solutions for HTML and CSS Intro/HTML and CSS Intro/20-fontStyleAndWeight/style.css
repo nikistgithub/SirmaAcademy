@@ -1,0 +1,29 @@
+.italic-text{
+    font-style: italic;
+    font-weight: 100;
+}
+
+.normal-text{
+    font-style: normal;
+    font-weight: 400;
+}
+
+.oblique-text{
+    font-style: oblique;
+    font-weight: 600;
+}
+
+.inherit-text{
+    font-style: inherit;
+    font-weight: bolder;
+}
+
+.initial-text{
+    font-style: initial;
+    font-weight:lighter;
+}
+
+.unset-text{
+    font-style: unset;
+    font-weight:900;
+}
