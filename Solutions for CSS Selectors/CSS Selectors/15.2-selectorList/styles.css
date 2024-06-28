@@ -1,0 +1,10 @@
+h1, p {
+    text-align: right;
+    background-color: chartreuse;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+    font-style: italic;
+    text-decoration: underline;
+    color: black;
+}

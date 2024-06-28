@@ -1,0 +1,13 @@
+#unique{
+    text-align: center;
+    font-size: 30px;
+    background-color: grey;
+    padding: 10px;
+}
+
+.highlight{
+    text-align: center;
+    font-size: 50px;
+    background-color: chocolate;
+    padding: 10px;
+}

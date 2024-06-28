@@ -1,0 +1,8 @@
+.width-example {
+    width: 50%;
+    max-width: 600px;
+    min-width: 200px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    padding: 10px;
+}

@@ -1,0 +1,11 @@
+input[type="text"] {
+    font-style: italic;
+    background-color: antiquewhite;
+    border-radius: 7px;
+}
+
+input[type="submit"] {
+    background-color: green;
+    color: white;
+    margin-left: 15px;
+}

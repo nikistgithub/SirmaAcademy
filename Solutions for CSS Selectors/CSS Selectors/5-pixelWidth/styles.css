@@ -1,0 +1,7 @@
+.fixed-width{
+    width: 300px;
+    background-color: lightcoral;
+    padding: 50px;
+    text-align: center;
+    margin: 0 auto;
+}

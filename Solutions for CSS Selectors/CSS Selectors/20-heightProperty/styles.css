@@ -1,0 +1,8 @@
+.height-example {
+    height: 200px;
+    max-height: 150px;
+    min-height: 300px;
+    text-align: center;
+    background-color: greenyellow;
+    padding: 20px;
+}
