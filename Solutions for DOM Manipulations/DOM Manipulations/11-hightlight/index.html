@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Highlight Bold Words</title>
+    <style>
+        .container {
+            border: 2px solid #3e3e9d;
+            padding: 10px;
+            margin: 20px;
+            font-family: Arial, sans-serif;
+        }
+        .highlight {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p id="paragraph">
+            We <b>have</b> just <b>started</b> this <b>section</b> for the users (beginner to intermediate) who <b>want</b> to work with various JavaScript problems and write scripts online to test their JavaScript skill.
+        </p>
+        <a href="#" onmouseover="highlightBoldWords()" onmouseout="removeHighlightBoldWords()">Highlight bold words</a>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>

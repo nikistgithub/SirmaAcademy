@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sphere Volume</title>
+    <style>
+        .container {
+            border: 6px solid rgb(62, 62, 157);
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p>Input radius value and get the volume of a sphere.</p>
+
+        <form>
+            <label for="radius">Radius</label><br>
+            <input type="number" name="radius" id="radius" value="5"><br>
+
+            <label for="volume">Volume</label><br>
+            <input type="text" name="volume" id="volume" readonly><br>
+            <input type="button" onclick="calculateSphere()" value="Calculate">
+        </form>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
